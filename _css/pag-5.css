@@ -1,0 +1,6 @@
+@charset "utf-8";
+div.container   {border-left:1px solid #000000;border-right:1px solid #000000; width: 60%;padding: 50px}
+.document       { padding-bottom: 50px; margin: auto;margin-top:50px;}
+.files          { float: left; margin-top:10px;margin-left: 40px}
+ h2              {text-align: center; font-weight: bolder;margin-top:100px}
+ a:link          {text-decoration: none; color:white}
